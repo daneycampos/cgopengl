@@ -1,20 +1,3 @@
-//*****************************************************
-//
-// Exemplo3DPiramide.cpp
-// Um programa OpenGL que abre uma janela GLUT e desenha
-// o wireframe de uma pirâmide.
-//
-// Navegação via botões do mouse + movimento:
-// - botão esquerdo: rotaciona objeto
-// - botão direito:  aproxima/afasta
-// - botão do meio:  translada objeto
-//
-// Teclas Home e End fazem zoom in/zoom out
-//
-// Prof. Elias Aguiar
-//
-//*****************************************************
-
 #include <GL/glut.h>
 #include <stdlib.h>
 
